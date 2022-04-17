@@ -1,0 +1,20 @@
+Q01	Parser output 
+Q02	king son rama 
+Q03	monkey crossed mountains to help rama find sita 
+Q04	study science
+Q05	pandava lived in forest
+Q06	snake in the forest
+Q07	covid test result
+Q08	search great rivers
+Q09	weapon used in battle 
+Q10	pain due to disease
+Q11	tree algorithm
+Q12	errors in output
+Q13	Different programming language
+Q14	Prime numbers 
+Q15	prize in applied mathematics 
+Q16	Boolean Algebra
+Q17	Theories of Geometry
+Q18	Functional Programming
+Q19	flow chart 
+Q20	Indexing in python lis
