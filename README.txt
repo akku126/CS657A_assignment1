@@ -1,3 +1,5 @@
+The English-corpora can be downloaded from:
+https://www.cse.iitk.ac.in/users/arnabb/ir/english/
 Dependencies:
 
 - csv	:  to manage data
